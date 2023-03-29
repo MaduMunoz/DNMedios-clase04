@@ -24,3 +24,12 @@ Megakabuterimon
 
 ![MegaKabuterimon](https://user-images.githubusercontent.com/75258779/228571072-b1c763b6-a226-4c5a-80f5-469fbf48fdb7.jpeg)
 ![megakabuterimon 1](https://user-images.githubusercontent.com/75258779/228571087-89f4c7ae-56bc-4048-9490-e3cf1f920ed3.jpeg)
+
+
+![228570743-7c53084c-dd5c-4dc0-95fc-16bfbb362f27](https://user-images.githubusercontent.com/75258779/228572434-7174f1df-d0cc-4abc-b7d3-4762e692042c.jpeg)
+
+
+![Petamon](https://user-images.githubusercontent.com/75258779/228572459-21123834-d15a-44ea-af50-75c967862c09.jpeg)
+
+
+![Ankylomon](https://user-images.githubusercontent.com/75258779/228572481-3394f9b8-d054-4c94-8846-508b5bc054f5.jpeg)
