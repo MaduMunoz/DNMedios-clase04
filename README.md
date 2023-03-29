@@ -29,13 +29,29 @@ Megakabuterimon
 ![228570743-7c53084c-dd5c-4dc0-95fc-16bfbb362f27](https://user-images.githubusercontent.com/75258779/228572434-7174f1df-d0cc-4abc-b7d3-4762e692042c.jpeg)
 
 Petamon
+
 ![Petamon](https://user-images.githubusercontent.com/75258779/228572459-21123834-d15a-44ea-af50-75c967862c09.jpeg)
 
 Ankylomon
+
 ![Ankylomon](https://user-images.githubusercontent.com/75258779/228572481-3394f9b8-d054-4c94-8846-508b5bc054f5.jpeg)
 
 Vademon
+
 ![Vademon](https://user-images.githubusercontent.com/75258779/228573159-95966155-212d-4ee8-bb4b-3d381396d106.jpeg)
 
 Otamamon
+
 ![Otamamon](https://user-images.githubusercontent.com/75258779/228573222-cffda7eb-95f8-49ec-a9aa-fed04bc87bb3.jpeg)
+
+Togemon
+
+![Togemon](https://user-images.githubusercontent.com/75258779/228577902-cca21154-878e-4a64-8e92-d613da99f9cc.jpg)
+
+MarineAngemon
+
+![MarineAngemon](https://user-images.githubusercontent.com/75258779/228577943-ee11dee4-39e5-4af8-95bc-e0dea4d8c194.jpeg)
+
+Esto no se si son digimon
+![DigimonX](https://user-images.githubusercontent.com/75258779/228578025-3d5dc349-3065-43a4-a5b8-ba352fac0029.jpeg)
+![Esto no es un Digimon](https://user-images.githubusercontent.com/75258779/228578100-17b30739-4480-4a85-ad4b-d50becd8fedb.jpeg)
