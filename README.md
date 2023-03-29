@@ -1,8 +1,8 @@
 # DNMedios-clase04
 
-Magnadramon
-![Magnadramon](https://user-images.githubusercontent.com/75258779/228564333-d248d2d3-d672-4bbf-934f-8bd02705a09b.jpg)
-![magnadramon](https://user-images.githubusercontent.com/75258779/228563547-d1bff96a-9b75-482f-9d74-8bf4e87a3699.jpeg)
+Pagumon
+![Pagumon](https://user-images.githubusercontent.com/75258779/228570880-0662dee0-3eac-49fa-9001-d680bdc6417b.jpg)
+![pagumon (1)](https://user-images.githubusercontent.com/75258779/228570908-c6860739-bd18-4b1d-995d-0230776c7178.jpeg)
 
 Cherrymon
 ![Cherrymon](https://user-images.githubusercontent.com/75258779/228567701-0b16f63e-30f3-478d-8716-33a112d87035.jpeg)
@@ -15,3 +15,7 @@ Elecmon
 Raremon
 ![Raremon](https://user-images.githubusercontent.com/75258779/228567778-a8c1c271-db67-4527-aadf-fc135d53dd6d.jpeg)
 ![raremon (1)](https://user-images.githubusercontent.com/75258779/228567828-e8e018e8-3ce2-47c4-8c68-c6916a1d32dd.jpeg)
+
+Megakabuterimon
+![MegaKabuterimon](https://user-images.githubusercontent.com/75258779/228571072-b1c763b6-a226-4c5a-80f5-469fbf48fdb7.jpeg)
+![megakabuterimon 1](https://user-images.githubusercontent.com/75258779/228571087-89f4c7ae-56bc-4048-9490-e3cf1f920ed3.jpeg)
